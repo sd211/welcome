@@ -47,7 +47,7 @@ if (message.content.startsWith(adminprefix + 'setT')) {
 
     while (!guild)
 
-        guild = client.guilds.get("اي دي سيرفرك - Server id");
+        guild = client.guilds.get("456166860531040276- Server id");
 
     guild.fetchInvites().then((data) => {
 
